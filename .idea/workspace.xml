@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27f79aac-0fd9-4a99-ade4-74c96e5087f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/new_stock_prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Stepan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Stepan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/regression.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/regression.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_functions.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +18,85 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stock_prediction.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="239" column="10" selection-start-line="239" selection-start-column="10" selection-end-line="239" selection-end-column="10" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#1004#7271#0" />
+                <element signature="e#1004#4574#1" />
+                <element signature="e#4605#4681#0" />
+                <element signature="e#4813#4886#0" />
+                <element signature="e#5046#5103#0" />
+                <element signature="e#5127#5184#0" />
+                <element signature="e#5214#5319#0" />
+                <element signature="e#5344#5890#0" />
+                <element signature="e#5913#6197#0" />
+                <element signature="e#6222#6521#0" />
+                <element signature="e#6549#7023#0" />
+                <element signature="e#7460#8109#0" />
+                <element signature="e#7460#7590#1" />
+                <element signature="e#8170#8859#0" />
+                <element signature="e#8170#8379#1" />
+                <element signature="e#8984#10402#0" />
+                <element signature="e#8984#9431#1" />
+                <element signature="e#10756#11761#1" />
+                <element signature="e#12278#12703#0" />
+                <element signature="e#12749#12891#0" />
+                <element signature="e#12918#12991#0" />
+                <element signature="e#13484#14625#0" />
+                <element signature="e#14039#14625#0" />
+                <element signature="e#14039#14093#0" />
+                <element signature="e#14449#14625#0" />
+                <element signature="e#14678#21634#0" />
+                <element signature="e#14678#14758#0" />
+                <element signature="e#15323#16350#0" />
+                <element signature="e#15323#15377#0" />
+                <element signature="e#16054#16230#0" />
+                <element signature="e#16837#17786#0" />
+                <element signature="e#16837#16891#0" />
+                <element signature="e#17510#17786#0" />
+                <element signature="e#18387#19326#0" />
+                <element signature="e#18387#18441#0" />
+                <element signature="e#19055#19326#0" />
+                <element signature="e#21786#22075#0" />
+                <element signature="e#21786#21929#1" />
+                <element signature="e#22232#25416#0" />
+                <element signature="e#22232#22308#1" />
+                <element signature="e#22440#22595#0" />
+                <element signature="e#22843#22987#0" />
+                <element signature="e#23037#23178#0" />
+                <element signature="e#25418#25440#0" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new_stock_prediction.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kaggle_salary_prediction.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,10 +105,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/new_stock_prediction.ipynb" />
+        <option value="$PROJECT_DIR$/my_functions.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="1855" />
@@ -50,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -62,10 +132,17 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -80,19 +157,56 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="regression" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27f79aac-0fd9-4a99-ade4-74c96e5087f4" name="Default Changelist" comment="" />
+      <created>1559058439322</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559058439322</updated>
+      <workItem from="1559058452579" duration="574000" />
+      <workItem from="1559059141868" duration="14698000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15272000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1482" height="878" extended-state="6" />
+    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964838" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24865952" />
       <window_info id="Structure" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Python Console" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Jupyter" visible="true" weight="0.32904884" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -100,13 +214,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
-      <window_info anchor="right" id="Json Parser" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32904884" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32904884" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Json Parser" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" x="0" y="0" width="334" height="664" id="Documentation" order="7" side_tool="true" type="SLIDING" weight="0.3297587" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.6213137" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
@@ -116,15 +243,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/stock_prediction.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/regression.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/my_functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="239" column="10" selection-start-line="239" selection-start-column="10" selection-end-line="239" selection-end-column="10" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#1004#7271#0" />
+            <element signature="e#1004#4574#1" />
+            <element signature="e#4605#4681#0" />
+            <element signature="e#4813#4886#0" />
+            <element signature="e#5046#5103#0" />
+            <element signature="e#5127#5184#0" />
+            <element signature="e#5214#5319#0" />
+            <element signature="e#5344#5890#0" />
+            <element signature="e#5913#6197#0" />
+            <element signature="e#6222#6521#0" />
+            <element signature="e#6549#7023#0" />
+            <element signature="e#7460#8109#0" />
+            <element signature="e#7460#7590#1" />
+            <element signature="e#8170#8859#0" />
+            <element signature="e#8170#8379#1" />
+            <element signature="e#8984#10402#0" />
+            <element signature="e#8984#9431#1" />
+            <element signature="e#10756#11761#1" />
+            <element signature="e#12278#12703#0" />
+            <element signature="e#12749#12891#0" />
+            <element signature="e#12918#12991#0" />
+            <element signature="e#13484#14625#0" />
+            <element signature="e#14039#14625#0" />
+            <element signature="e#14039#14093#0" />
+            <element signature="e#14449#14625#0" />
+            <element signature="e#14678#21634#0" />
+            <element signature="e#14678#14758#0" />
+            <element signature="e#15323#16350#0" />
+            <element signature="e#15323#15377#0" />
+            <element signature="e#16054#16230#0" />
+            <element signature="e#16837#17786#0" />
+            <element signature="e#16837#16891#0" />
+            <element signature="e#17510#17786#0" />
+            <element signature="e#18387#19326#0" />
+            <element signature="e#18387#18441#0" />
+            <element signature="e#19055#19326#0" />
+            <element signature="e#21786#22075#0" />
+            <element signature="e#21786#21929#1" />
+            <element signature="e#22232#25416#0" />
+            <element signature="e#22232#22308#1" />
+            <element signature="e#22440#22595#0" />
+            <element signature="e#22843#22987#0" />
+            <element signature="e#23037#23178#0" />
+            <element signature="e#25418#25440#0" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kaggle_salary_prediction.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_stock_prediction.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
 </project>
