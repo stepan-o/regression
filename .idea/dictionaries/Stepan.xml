@@ -5,7 +5,9 @@
       <w>autocorrelation</w>
       <w>autoregression</w>
       <w>autoregressive</w>
+      <w>backtesting</w>
       <w>cmap</w>
+      <w>coef</w>
       <w>linestyle</w>
       <w>linewidth</w>
       <w>machinelearningmastery</w>
@@ -13,7 +15,9 @@
       <w>quandl</w>
       <w>resampled</w>
       <w>resampling</w>
+      <w>rmse</w>
       <w>scikit</w>
+      <w>smape</w>
       <w>tpqa</w>
       <w>univariate</w>
       <w>xlabel</w>
